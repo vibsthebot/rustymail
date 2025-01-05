@@ -1,6 +1,0 @@
-{
-    "oauth_token": "leave blank or with gibberish for verification"
-    "email": "your-email@gmail.com",
-    "public_key": "your-oauth-client-id",
-    "private_key": "your-oauth-client-secret"
-}
